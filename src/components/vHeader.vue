@@ -14,7 +14,7 @@
                     <Icon type="email"></Icon>
                 </router-link>
             </Badge>
-            <a href="https://github.com/huanghaibin91/V-Shop" target="_black" title="关于项目">
+            <a href="https://github.com/PhyQxx/v-shopAdministration" target="_black" title="关于项目">
                 <Icon type="social-github"></Icon>
             </a>
         </div>
@@ -28,7 +28,7 @@ import IndexedDB from '../indexedDB/IndexedDB'
 export default {
     data () {
         return {
-            
+
         }
     },
     methods: {
