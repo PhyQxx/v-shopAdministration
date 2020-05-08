@@ -1,6 +1,6 @@
 <template>
     <footer class="footer">
-        <a href="https://github.com/huanghaibin91/V-Shop" target="_black">
+        <a href="https://github.com/PhyQxx/v-shopAdministration" target="_black">
             <Icon type="social-github"></Icon>&nbsp;Writed By Huang Haibin
         </a>
     </footer>
